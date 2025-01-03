@@ -1,0 +1,23 @@
+Validation Results:
+abdullah - Valid
+Letters: 8 (Uppercase: 0, Lowercase: 8), Digits: 0, Underscores: 0
+Generated Password: %f13D&BvdZg^6g (Strength: Strong)
+
+muneeb - Valid
+Letters: 6 (Uppercase: 0, Lowercase: 6), Digits: 0, Underscores: 0
+Generated Password: u&59vTQVk9f8&W (Strength: Strong)
+
+ziyad - Valid
+Letters: 5 (Uppercase: 0, Lowercase: 5), Digits: 0, Underscores: 0
+Generated Password: 8Vjsk6lw#WO!ho (Strength: Strong)
+
+jawad - Valid
+Letters: 5 (Uppercase: 0, Lowercase: 5), Digits: 0, Underscores: 0
+Generated Password: *1xV*jU21A4B4k (Strength: Strong)
+
+asim - Invalid
+
+Summary:
+- Total Usernames: 5
+- Valid Usernames: 4
+- Invalid Usernames: 1
